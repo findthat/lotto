@@ -1,2 +1,2 @@
 # lotto
-FirstProgram
+彩票号码随机微信小程序
